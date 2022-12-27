@@ -1,6 +1,8 @@
+open -a "Ableton Live 11 Suite"
+
 if [ ! -d "/usr/local/ABLETON-FAN-CONTROL" ]; then
  cd /usr/local/
- sudo git clone https://github.com/camxus/ABLETON-FAN-CONTROL.git
+ sudo git clone --branch resources https://github.com/camxus/ABLETON-FAN-CONTROL.git
 fi
 
 if [  -d "/usr/local/ABLETON-FAN-CONTROL" ]; then
@@ -10,4 +12,3 @@ if [  -d "/usr/local/ABLETON-FAN-CONTROL" ]; then
     pipenv run python main.py
 fi
 
-open -a "Ableton Live 11 Suite"
