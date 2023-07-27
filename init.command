@@ -1,4 +1,3 @@
-open -a "Ableton Live 11 Suite"
 
 if [ ! -d "/usr/local/ABLETON-FAN-CONTROL" ]; then
  cd /usr/local/
@@ -7,8 +6,8 @@ fi
 
 if [  -d "/usr/local/ABLETON-FAN-CONTROL" ]; then
     cd "/usr/local/ABLETON-FAN-CONTROL"
-    ls
     pipenv install
     pipenv run python main.py
+    open -a "Ableton Live 11 Suite"
 fi
 
