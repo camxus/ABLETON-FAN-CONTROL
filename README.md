@@ -1,5 +1,11 @@
 ## ABLETON-FAN-CONTROL
 
+# Instal [Homebrew](https://brew.sh) 
+[Homebrew Homepage](https://brew.sh)
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
 
 # Installation w/ Homebrew
 
