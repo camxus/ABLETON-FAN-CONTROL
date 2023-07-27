@@ -11,7 +11,7 @@
 
 ```
 brew install --cask smcfancontrol
-brew install pipenv
+brew install pipenv pyenv
 
 echo -n 'export PATH="$PATH:/usr/local/Caskroom/smcfancontrol/2.6/smcFanControl.app/Contents/Resources"' >> ~/.profile
 
