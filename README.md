@@ -6,11 +6,6 @@
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-# Clone this repository
-```
-git clone https://github.com/camxus/ABLETON-FAN-CONTROL
-```
-
 
 # Installation w/ Homebrew
 Open terminal and run/copy-paste the commands below
@@ -25,9 +20,6 @@ echo -n 'export PATH="$PATH:/usr/local/Caskroom/smcfancontrol/2.6/smcFanControl.
 
 source ~/.profile
 source ~/.zshrc
-
-open .
-
 ```
 
 # Usage
