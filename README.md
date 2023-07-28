@@ -6,6 +6,11 @@
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
+# Clone this repository
+```
+git clone https://github.com/camxus/ABLETON-FAN-CONTROL
+```
+
 
 # Installation w/ Homebrew
 Open terminal and run/copy-paste the commands below
