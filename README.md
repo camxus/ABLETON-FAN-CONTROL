@@ -24,4 +24,4 @@ source ~/.zshrc
 
 # Usage
 
-To make use of this application find the folder called ABLETON-FILE-CONTROL and run "init.command"
+To make use of this application find the folder named ABLETON-FILE-CONTROL and run "init.command"
