@@ -8,6 +8,7 @@
 
 
 # Installation w/ Homebrew
+Open terminal and run/copy-paste the commands below
 
 ```
 brew install --cask smcfancontrol
@@ -20,8 +21,10 @@ echo -n 'export PATH="$PATH:/usr/local/Caskroom/smcfancontrol/2.6/smcFanControl.
 source ~/.profile
 source ~/.zshrc
 
+open .
+
 ```
 
 # Usage
 
-To make use of this application run the command file
+To make use of this application find the folder called ABLETON-FILE-CONTROL and run "init.command"
