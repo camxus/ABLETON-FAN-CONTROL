@@ -1,7 +1,7 @@
 
 if [ ! -d "/usr/local/ABLETON-FAN-CONTROL" ]; then
  cd /usr/local/
- sudo git clone --branch resources https://github.com/camxus/ABLETON-FAN-CONTROL.git
+ sudo git clone --branch resources-T1 https://github.com/camxus/ABLETON-FAN-CONTROL.git
 fi
 
 if [  -d "/usr/local/ABLETON-FAN-CONTROL" ]; then

@@ -1,5 +1,9 @@
 ## ABLETON-FAN-CONTROL
 
+# T2 Chip Issue
+If your Macbook was released after 2018 it is likely to contain a T2 chip.
+In order to run, go to and download [here](https://github.com/camxus/ABLETON-FAN-CONTROL)
+
 # Install [Homebrew](https://brew.sh) 
 [Homebrew Homepage](https://brew.sh)
 ```
