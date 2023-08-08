@@ -23,7 +23,6 @@ def on_press(key):
         os.system(f'smc -k F0Tg -w {fan_speed}')
         os.system(f'smc -k F1Tg -w {fan_speed}')
 
-        print(f'smc -k F1Tg -w {fan_speed}')
         print(f'Fan speed force set: {SET_FAN_SPEED} {fan_speed}')
         print('Key pressed: ' + k)
 
