@@ -1,8 +1,4 @@
-## ABLETON-FAN-CONTROL
-
-# T2 Chip Issue
-If your Macbook was released after 2018 it is likely to contain a T2 chip.
-In order to run, go to and download [here](https://github.com/camxus/ABLETON-FAN-CONTROL)
+## ABLETON-FAN-CONTROL (Legacy Version/T1 Chip)
 
 # Install [Homebrew](https://brew.sh) 
 [Homebrew Homepage](https://brew.sh)
@@ -29,3 +25,7 @@ source ~/.zshrc
 # Usage
 
 To make use of this application find the folder named ABLETON-FILE-CONTROL and run "init.command"
+
+# T2 Chip Issue
+If your Macbook was released after 2018 it is likely to contain a T2 chip.
+In order to run, go to and download [here](https://github.com/camxus/ABLETON-FAN-CONTROL)
